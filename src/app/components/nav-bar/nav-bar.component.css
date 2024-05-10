@@ -1,0 +1,28 @@
+/* Estilo para la barra de navegación */
+.navbar {
+    background-color: #343a40; /* Color de fondo de la barra */
+    padding: 10px 0; /* Espaciado interno */
+  }
+  
+  /* Estilo para el enlace en la barra de navegación */
+  .navbar-nav .nav-link {
+    color: #fff; /* Color del texto */
+    padding: 10px 15px; /* Espaciado interno */
+  }
+  
+  /* Estilo para el enlace activo en la barra de navegación */
+  .navbar-nav .nav-item.active .nav-link {
+    background-color: #007bff; /* Color de fondo del enlace activo */
+    border-radius: 5px; /* Bordes redondeados */
+  }
+  
+  /* Estilo para el botón del toggler en la barra de navegación */
+  .navbar-toggler {
+    border-color: #fff; /* Color del borde */
+  }
+  
+  /* Estilo para el ícono del toggler en la barra de navegación */
+  .navbar-toggler-icon {
+    background-color: #fff; /* Color del ícono */
+  }
+  

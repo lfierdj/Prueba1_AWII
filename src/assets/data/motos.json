@@ -1,0 +1,32 @@
+{
+  "motos": [
+    {
+      "id": "IC 753F",
+      "precio": "1",
+      "placa_id": "IC 753F",
+      "anio": "2013",
+      "imagen": "https://media.revistagq.com/photos/5ff4536f08989a3c40eb74e4/master/w_1600%2Cc_limit/Ducati%2520Multistrada%2520V4.jpg"
+    },
+    {
+      "id": "8R HGT",
+      "placa_id": "8R HGT",
+      "precio": "18462",
+      "anio": "2010",
+      "imagen": "https://a.mcdn.es/mnet/2020/09/01/7234260/19206505_g.jpg/400x273cut/"
+    },
+    {
+      "id": "7K AJR",
+      "placa_id": "7K AJR",
+      "precio": "26797",
+      "anio": "2018",
+      "imagen": "https://image.slidesharecdn.com/modelosdemotos-140320202829-phpapp02/85/Modelos-de-motos-1-320.jpg"
+    },
+    {
+      "id": "8J G5Y",
+      "placa_id": "8J G5Y",
+      "precio": "697148",
+      "anio": "2022",
+      "imagen": "https://www.manualesdetodo.net/wp-content/uploads/2022/07/Manual-Moto-Yamaha-YZF-R6-2005-Reparacion-y-Servicio.jpg"
+    }
+  ]
+}

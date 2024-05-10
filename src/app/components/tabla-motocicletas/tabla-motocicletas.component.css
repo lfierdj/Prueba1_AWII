@@ -1,0 +1,15 @@
+.container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh; /* Esto centra verticalmente en la página */
+  }
+
+  .card {
+    width: 400px;
+    margin: 10px; /* Agrega un poco de espacio entre las tarjetas */
+  }
+
+  .card-body {
+    text-align: center; /* Centra el texto dentro de las tarjetas */
+  }

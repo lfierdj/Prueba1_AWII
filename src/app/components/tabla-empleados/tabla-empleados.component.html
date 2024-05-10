@@ -1,0 +1,14 @@
+
+<div class="container">
+  @for (item of empleados.personajes; track item) {
+    <div class="card" style="width: 400px">
+      <img class="card-img-top" src="{{item.image}}" alt="Card image" />
+      <div class="card-body">
+        <h4 class="card-title">ID: {{ item.id }}</h4>
+        <h4 class="card-title">Nombre: {{ item.name }}</h4>
+        <p class="card-text">Descripcion: {{item.description}}</p>
+       
+      </div>
+    </div>
+    }
+</div>
